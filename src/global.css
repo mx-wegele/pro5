@@ -1,0 +1,35 @@
+.h1{
+    text-align: center;
+    font-family: Arial;
+}
+
+.navbar-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #082C4C;
+}
+
+.navbar-container {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.loginbutton{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #59BB7A;
+    border: 0px;
+    color: white;
+    border-radius: 6px;
+    align-content: right;
+}
+
+a {
+    font-family: Arial;
+    color: white;
+    padding-right: 20px;
+    align-content: right;
+}
